@@ -8,7 +8,7 @@ Tool, Blockchain Simulation Software
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer -- Educational Use Only
+## ⚠️ Disclaimer
 
 This project is strictly developed for blockchain education, testing,
 and security awareness.
@@ -96,7 +96,7 @@ The tool simulates blockchain transactions by:
 
 ------------------------------------------------------------------------
 
-## contact on telegram 
+# contact on telegram 
 to buy this software 
 https://t.me/H16kM4w
 available 📍
