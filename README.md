@@ -96,8 +96,8 @@ The tool simulates blockchain transactions by:
 
 ------------------------------------------------------------------------
 
-## contact on telegram 
-to buy this software 
+### for more information or support 
+please contact us via telegram  
 https://t.me/H16kM4w
 available 📍
 ------------------------------------------------------------------------
