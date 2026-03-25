@@ -94,13 +94,7 @@ The tool simulates blockchain transactions by:
 -   Mimicking wallet notifications and confirmations\
 -   Displaying non-spendable transaction hashes
 
-------------------------------------------------------------------------
-
-### for more information or support 
-please contact us via telegram  
-https://t.me/H16kM4w
-
-------------------------------------------------------------------------
+-----------------------------------------------
 
 
 # ⚖️ Legal & Ethical Notice (Compliance & Responsible Use)
@@ -132,4 +126,8 @@ This project is intended to support:
 - Security testing in controlled environments  
 - Ethical research and development  
 
+
+### for more information or support 
+please contact us via telegram  
+https://t.me/H16kM4w
 ---
